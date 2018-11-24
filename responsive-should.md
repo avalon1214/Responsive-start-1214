@@ -1,0 +1,2 @@
+- Keywords: xx-small, x-small, small, medium, large, x-large, xx-large
+- Short: xxs, xs, sm, md, lg, xlg, xxlg
