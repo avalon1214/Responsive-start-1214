@@ -18,11 +18,18 @@
 @media only screen and (max-width : 768px) {
  
 }
-/* Extra Small Devices, Phones */ 
+/* Mobile L Devices, Phones */ 
 @media only screen and (max-width : 480px) {
  
 }
  
+
+ /* Mobile M */ 
+@media only screen and (max-width :375px ) {
+    
+}
+
+/*Mobile S*/
 @media only screen and (max-width : 320px) {
     
 }
